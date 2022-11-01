@@ -19,12 +19,11 @@
   <p align="center">
     A Project on Smart Waste Management System For Metropolitan Cities For IBM - Nalaya Thiran
     <br />
-    <a href="https://github.com/IBM-EPBL/IBM-Project-11529-1659332969/blob/master/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-11529-1659332969"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-11529-1659332969/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
