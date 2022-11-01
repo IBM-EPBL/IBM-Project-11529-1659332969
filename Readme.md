@@ -59,11 +59,8 @@ Sivatharshan T - 19tucs221@skct.edu.in
 
 Project Link: [IBM-Git-Repo](https://github.com/IBM-EPBL/IBM-Project-11529-1659332969)
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Choose an Open Source License](https://choosealicense.com)
-
+<br>
+<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
