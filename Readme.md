@@ -22,8 +22,7 @@
     <a href="https://github.com/IBM-EPBL/IBM-Project-11529-1659332969"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/IBM-EPBL/IBM-Project-11529-1659332969/issues">Report Bug</a>
-    ·
+    . <a href="https://github.com/IBM-EPBL/IBM-Project-11529-1659332969/issues">Report Bug</a> ·
   </p>
 </div>
 
