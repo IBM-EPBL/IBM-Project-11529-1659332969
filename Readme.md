@@ -70,7 +70,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Sivatharshan T - 19tucs221@skct.edu.in
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
