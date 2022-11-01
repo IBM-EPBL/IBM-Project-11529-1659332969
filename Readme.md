@@ -39,7 +39,7 @@ A simple Project on Smart Waste Management System for Metropolitant Cities for I
 
 
 ### Built With
-
+<!--
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -50,6 +50,7 @@ A simple Project on Smart Waste Management System for Metropolitant Cities for I
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 <!-- CONTACT -->
 ## Contact
@@ -57,10 +58,6 @@ A simple Project on Smart Waste Management System for Metropolitant Cities for I
 Sivatharshan T - 19tucs221@skct.edu.in
 
 Project Link: [IBM-Git-Repo](https://github.com/IBM-EPBL/IBM-Project-11529-1659332969)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
