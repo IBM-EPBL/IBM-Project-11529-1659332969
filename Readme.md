@@ -57,6 +57,8 @@ A simple Project on Smart Waste Management System for Metropolitant Cities for I
 
 Sivatharshan T - 19tucs221@skct.edu.in
 
+Team ID: PNT2022TMID20544
+
 Project Link: [IBM-Git-Repo](https://github.com/IBM-EPBL/IBM-Project-11529-1659332969)
 
 <br>
