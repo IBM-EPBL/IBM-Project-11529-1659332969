@@ -38,8 +38,8 @@ A simple Project on Smart Waste Management System for Metropolitant Cities for I
 
 
 
-### Built With
-<!--
+<!--### Built With
+
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
