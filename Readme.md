@@ -52,6 +52,28 @@ A simple Project on Smart Waste Management System for Metropolitant Cities for I
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 -->
 
+# **TEAM MEMBERS**    
+```html                      
+Sivatharshan 
+Sanjay
+Yeshwanth
+Sujin
+```          
+
+# **PROJECT DESCRIPTION:**          
+Garbage level detection in bins.     
+Getting the weight of the garbage in the bin.      
+Alerts the authorized person to empty the bin whenever the bins are full.     
+Garbage level of the bins can be monitored through a web App.        
+We can view the location of every bin in the web application by sending GPS location from the device.    
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# **Skills Required:**        
+IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
+
+
+
 <!-- CONTACT -->
 ## Contact
 
